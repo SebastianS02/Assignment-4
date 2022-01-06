@@ -25,5 +25,5 @@ function checkPass(){
     }
     else{
         alert('The password is incorrect!');
-    }
+    } 
 }
